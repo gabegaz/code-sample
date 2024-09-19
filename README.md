@@ -25,11 +25,11 @@ This script looks at the pattern of unemployment over time and accross regions e
 The script checks if there are some systematic differences between male and female poultry agnets/owners in their productivity, access to services, sales revenue etc.
 
 ## Python
-[openpyxl  and pandas-Python used to automate excel files](https://github.com/gabegaz/code-sample/blob/main/Sample%206%20-%20analysis_poultry.py)
+[openpyxl  and pandas-Python used to automate excel files](https://github.com/gabegaz/code-sample/blob/main/Sample%206%20-%20extracting_from_excel.py)
 
 This file shows how to use openpyxl and pandas (Python libraries) to extract data from more than 1500 excel files (filled questionnaires) and combine in one excel file (structured dataset) which will then be ready for analysis using Stata.
 
-[openpyxl -Creating and formating tables in Ms Excel with Python](https://github.com/gabegaz/code-sample/blob/main/Sample%207%20-%20extracting_from_excel.py)
+[openpyxl -Creating and formating tables in Ms Excel with Python](https://github.com/gabegaz/code-sample/blob/main/Sample%207%20-%20analysis_poultry.py)
 
 This script uses pandas/openpyxl to create and format tables on MS Excel. This helped me to work with my team for reproducibility of the work as doing the same using a manual workflow doesn't allow this.
 
