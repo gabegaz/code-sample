@@ -1,7 +1,7 @@
 clear all
 set more off
 
-gl master "D:/projects/Shocks and Jobs/Analysis/" 
+gl master "D:/projects/Jobs/Analysis/" 
 
 gl raw "$master/Data/raw"
 gl mod "$master/Data/mod"
