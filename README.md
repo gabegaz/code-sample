@@ -1,6 +1,6 @@
 # Sample Code Links for STC Ethiopia PSNP IE (RA Application)
 Below are links to individual scripts that showcase my expertise in Stata, Python and R:
-Note that these scripts are just part of the a different workflows in the indicated research projects.
+Note that these scripts are just part of the different workflows in the indicated research projects.
 
 
 ## Stata
